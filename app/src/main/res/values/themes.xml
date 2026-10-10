@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VitraPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/vitra_cyan</item>
+        <item name="colorPrimaryVariant">@color/vitra_cyan_dark</item>
+        <item name="colorSecondary">@color/vitra_purple</item>
+        <item name="colorOnPrimary">@color/vitra_black</item>
+        <item name="colorOnSecondary">@color/vitra_white</item>
+        <item name="android:colorBackground">@color/vitra_black</item>
+        <item name="android:windowBackground">@color/vitra_black</item>
+        <item name="android:statusBarColor">@color/vitra_black</item>
+        <item name="android:navigationBarColor">@color/vitra_black</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+
+    <style name="Theme.VitraPlayer.Player" parent="Theme.VitraPlayer">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="VitraButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/vitra_white</item>
+        <item name="backgroundTint">@color/vitra_card</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+</resources>

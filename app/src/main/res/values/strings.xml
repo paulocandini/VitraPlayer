@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vitra Player</string>
+    <string name="tv_ao_vivo">TV ao vivo</string>
+    <string name="filmes">Filmes</string>
+    <string name="series">Séries</string>
+    <string name="continuar_assistindo">Continuar assistindo</string>
+    <string name="atualizar_lista">Atualizar lista</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="buscar">Buscar</string>
+    <string name="assistir">Assistir</string>
+    <string name="adicionar_favoritos">Adicionar aos favoritos</string>
+    <string name="remover_favoritos">Remover dos favoritos</string>
+    <string name="pular_abertura">Pular abertura</string>
+    <string name="proximo_episodio">Próximo episódio</string>
+    <string name="importando">Importando sua programação…</string>
+    <string name="organizando">Organizando canais, filmes e séries…</string>
+    <string name="lista_offline">Lista IPTV offline. Verifique o endereço ou contate seu revendedor.</string>
+    <string name="expira_hoje">Sua lista IPTV expira hoje.</string>
+    <string name="expira_amanha">Sua lista IPTV expira amanhã.</string>
+    <string name="expira_em_dias">Sua lista IPTV expira em %1$d dias.</string>
+    <string name="lista_expirou">Sua lista IPTV expirou. Contate seu revendedor e faça uma nova recarga.</string>
+    <string name="nova_atualizacao">Nova atualização disponível</string>
+    <string name="instalar">Instalar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="entrar">Entrar</string>
+    <string name="ok">OK</string>
+    <string name="concluido">Concluído</string>
+    <string name="pin_padrao">0000</string>
+    <string name="digite_pin">Digite o PIN parental</string>
+    <string name="pin_incorreto">PIN incorreto</string>
+    <string name="mac_dispositivo">MAC / Identificador</string>
+    <string name="versao">Versão</string>
+    <string name="sem_conteudo">Nenhum conteúdo encontrado</string>
+    <string name="erro_conexao">Erro de conexão. Tente novamente.</string>
+</resources>
