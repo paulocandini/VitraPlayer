@@ -1,0 +1,3 @@
+-keep class com.vitra.player.** { *; }
+-dontwarn androidx.media3.**
+-keep class androidx.media3.** { *; }
